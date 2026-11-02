@@ -1,0 +1,10 @@
+Herzlich willkommen zu Licht aus!
+Level 1
+  1 2 3 4 5
+A O O O O O
+B O O O O O
+C * O O O O
+D * * O O *
+E * O O * *
+A1 bis E5; XL = Neustart; XX = Beenden:
+Du hast das Spiel auf Level 1 beendet.
